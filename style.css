@@ -57,10 +57,10 @@
     width: 4rem;
 }
 .bottom{
-    background-color: black;
+    background-color: white;
     height: 2rem;
     font-size: 1.5rem;
-    color: white;
+    color: black;
     display: flex;
     justify-content: center;
     align-items: center;
